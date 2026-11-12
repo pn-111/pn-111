@@ -1,16 +1,20 @@
-## Hi there 👋
+# QA Engineer | Manual & API Testing
 
-<!--
-**pn-111/pn-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
 
-Here are some ideas to get you started:
+Мне интересно разбираться в логике работы продуктов, проверять их соответствие требованиям и находить причины некорректного поведения. В тестировании ценю системный подход: анализ требований, продумывание сценариев, проверку граничных и негативных случаев, точную фиксацию результатов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Навыки и инструменты
+
+- **Тестирование**: веб- и мобильные приложения, функциональное и регрессионное тестирование, анализ требований.
+- **Тест-дизайн и документация**: классы эквивалентности, граничные значения, таблицы принятия решений, Pairwise, чек-листы, тест-кейсы, баг-репорты.
+- **API**: Postman, REST, HTTP-методы, заголовки, JSON, проверка статус-кодов и ответов.
+- **Веб-инструменты**: Chrome DevTools.
+- **Автоматизация**: Python, Pytest.
+- **Другие инструменты**: Git, GitHub, Android Logcat, Charles Proxy.
+
+## Контакты и занятость
+
+- GitHub: https://github.com/pn-111
+- Telegram: https://t.me/Sergey_Podkorytov
+- Email: podkorytovsergej600@gmail.com
